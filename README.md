@@ -1,6 +1,6 @@
 # Wingmate
 
-Wingmate is chrome extension that allows users to use chatGPT as they browse, interacting directly with their current viewing page.
+Wingmate is a chrome extension that allows users to use chatGPT as they browse, pulling information directly from the currently viewed site.
 
 ## Setup
 - run **npm run build**
